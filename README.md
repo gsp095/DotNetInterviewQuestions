@@ -3,3 +3,5 @@
 11+ Years Experience • 500+ Interview Questions • Coding • System Design • Azure • AI
 
 Objective: prepare for Senior .NET Full Stack Developer, Lead Engineer and Technical Lead interviews by combining deep C#/.NET knowledge, hands-on coding, frontend, SQL, Azure/DevOps, distributed systems, system design, Python, GenAI/RAG/Agentic AI, and leadership stories.
+
+https://github.com/gsp095/DotNetInterviewQuestions/blob/main/NET_FullStack_16_Week_Interview_Program.md
